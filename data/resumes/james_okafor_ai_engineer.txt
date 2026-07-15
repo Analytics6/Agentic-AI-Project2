@@ -1,0 +1,29 @@
+James Okafor
+james.okafor@email.com | (555) 567-8901 | Austin, TX
+
+PROFESSIONAL SUMMARY
+Full-stack AI developer specializing in LLM applications, RAG pipelines, and
+agent frameworks. 3 years building production AI products with FastAPI backends
+and React frontends.
+
+TECHNICAL SKILLS
+Python, FastAPI, LangChain, LangGraph, OpenAI API, Vector databases, RAG, Prompt engineering, JavaScript, React
+
+PROFESSIONAL EXPERIENCE
+AI Engineer | PromptWorks | 2022 – Present | Austin, TX (Hybrid)
+- Built RAG pipeline serving 30K document queries daily
+- Developed multi-agent workflow using LangGraph for customer support
+- Integrated OpenAI and Anthropic APIs into production FastAPI services
+
+Software Developer | WebStart | 2020 – 2022 | Austin, TX
+- Full-stack development with React and Python
+- Implemented CI/CD with GitHub Actions
+
+EDUCATION
+B.S. Software Engineering | Texas State | 2020
+
+TARGET ROLES
+AI Engineer, LLM Application Developer, Full Stack AI Developer
+
+SALARY EXPECTATION
+$125,000 – $165,000

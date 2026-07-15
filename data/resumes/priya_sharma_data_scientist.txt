@@ -1,0 +1,30 @@
+Priya Sharma
+priya.sharma@email.com | (555) 234-5678 | New York, NY
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4 years of experience in statistical modeling, predictive
+analytics, and business intelligence. Strong communicator who translates
+complex analyses into actionable insights for stakeholders.
+
+TECHNICAL SKILLS
+Python, SQL, R, Statistics, Scikit-learn, Pandas, Tableau, A/B Testing, Spark, Machine Learning
+
+PROFESSIONAL EXPERIENCE
+Data Scientist | Insight Analytics | 2021 – Present | New York, NY
+- Built churn prediction models reducing customer attrition by 18%
+- Designed A/B testing framework used across 12 product teams
+- Created executive dashboards in Tableau for C-suite reporting
+
+Junior Data Analyst | RetailMetrics | 2019 – 2021 | Boston, MA
+- Analyzed sales data for 500+ retail locations
+- Automated weekly reporting saving 15 hours per week
+
+EDUCATION
+M.S. Statistics | Northeast University | 2019
+B.S. Mathematics | Delhi University | 2017
+
+TARGET ROLES
+Data Scientist, Analytics Engineer, ML Analyst
+
+SALARY EXPECTATION
+$110,000 – $140,000

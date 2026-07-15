@@ -1,0 +1,29 @@
+Marcus Johnson
+marcus.j@email.com | (555) 345-6789 | Chicago, IL
+
+PROFESSIONAL SUMMARY
+DevOps and Backend Engineer with 6 years building scalable cloud infrastructure
+and microservices. Expert in Kubernetes, CI/CD, and infrastructure as code for
+high-availability production systems.
+
+TECHNICAL SKILLS
+Python, Kubernetes, Docker, Terraform, AWS, CI/CD, PostgreSQL, Microservices, REST APIs, Go
+
+PROFESSIONAL EXPERIENCE
+Senior DevOps Engineer | InfraCore | 2021 – Present | Remote
+- Managed Kubernetes clusters serving 200+ microservices
+- Reduced deployment time from 45 min to 8 min with GitOps pipeline
+- Implemented observability stack (Prometheus, Grafana, ELK)
+
+Backend Engineer | CloudScale | 2018 – 2021 | Chicago, IL
+- Built REST APIs with Python/FastAPI handling 10K req/sec
+- Migrated monolith to microservices on AWS ECS
+
+EDUCATION
+B.S. Information Systems | Midwest Tech | 2018
+
+TARGET ROLES
+DevOps Engineer, Backend Engineer, Platform Engineer
+
+SALARY EXPECTATION
+$130,000 – $165,000

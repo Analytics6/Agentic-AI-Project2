@@ -1,0 +1,42 @@
+Alex Chen
+alex.chen@email.com | (555) 123-4567 | Remote, US
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 5+ years of experience building AI/ML systems,
+LLM applications, and multi-agent pipelines. Proven track record deploying
+production models serving millions of users. Passionate about agentic AI,
+MLOps, and building intelligent automation systems.
+
+TECHNICAL SKILLS
+• Languages: Python, SQL, JavaScript
+• ML/AI: PyTorch, TensorFlow, Scikit-learn, LangChain, OpenAI API, RAG
+• Backend: FastAPI, Flask, REST APIs, Microservices
+• Data: PostgreSQL, MongoDB, Pandas, Spark
+• DevOps: Docker, Kubernetes, AWS, CI/CD, MLOps
+• Other: Git, Agile, System Design
+
+PROFESSIONAL EXPERIENCE
+
+Senior ML Engineer | TechVision AI | 2022 – Present | Remote
+• Built agentic AI systems using LangChain and multi-agent orchestration
+• Deployed LLM pipelines with 99.9% uptime serving 50K+ daily users
+• Reduced model inference latency by 40% through optimization
+• Led team of 3 engineers on recommendation engine project
+
+ML Engineer | DataStart Inc. | 2020 – 2022 | San Francisco, CA
+• Developed ML recommendation models improving CTR by 23%
+• Built ETL pipelines processing 10M+ records daily
+• Implemented A/B testing framework for model evaluation
+
+Software Engineer | WebCo | 2018 – 2020 | Austin, TX
+• Built REST APIs with Python/FastAPI
+• Migrated monolith to microservices architecture
+
+EDUCATION
+B.S. Computer Science | State University | 2018
+
+TARGET ROLES
+ML Engineer, AI Engineer, LLM Application Developer, Senior Software Engineer
+
+SALARY EXPECTATION
+$140,000 – $180,000

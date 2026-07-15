@@ -1,0 +1,30 @@
+Elena Rodriguez
+elena.rodriguez@email.com | (555) 456-7890 | Seattle, WA
+
+PROFESSIONAL SUMMARY
+NLP Research Scientist with PhD and 3 years industry experience building
+transformer-based models. Published 8 papers on language understanding and
+dialogue systems. Strong PyTorch and Hugging Face expertise.
+
+TECHNICAL SKILLS
+Python, PyTorch, Transformers, NLP, BERT, GPT, Hugging Face, Publications, Research, Statistics
+
+PROFESSIONAL EXPERIENCE
+Research Scientist | Language Labs | 2022 – Present | Seattle, WA
+- Prototyped transformer models achieving SOTA on benchmark tasks
+- Published 3 papers at ACL and EMNLP conferences
+- Collaborated with product team to deploy summarization model
+
+PhD Researcher | Pacific University | 2017 – 2022
+- Dissertation on multi-turn dialogue understanding
+- Teaching assistant for graduate NLP course
+
+EDUCATION
+Ph.D. Computational Linguistics | Pacific University | 2022
+M.S. Computer Science | UC Berkeley | 2017
+
+TARGET ROLES
+Research Scientist - NLP, ML Research Engineer, NLP Engineer
+
+SALARY EXPECTATION
+$160,000 – $220,000

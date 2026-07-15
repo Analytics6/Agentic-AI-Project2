@@ -1,0 +1,29 @@
+Sarah Kim
+sarah.kim@email.com | (555) 678-9012 | San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Junior Software Engineer with 1.5 years of experience and strong foundation
+in Python, web development, and cloud basics. Eager to grow in AI/ML engineering
+with hands-on project experience in LLM APIs and data pipelines.
+
+TECHNICAL SKILLS
+Python, JavaScript, SQL, Git, REST APIs, Flask, Docker, AWS basics, Machine Learning basics, Pandas
+
+PROFESSIONAL EXPERIENCE
+Junior Software Engineer | FinTech Pro | 2023 – Present | San Francisco, CA
+- Built REST APIs with Python/Flask for payment processing
+- Wrote unit tests achieving 85% code coverage
+- Participated in on-call rotation for microservices
+
+Software Engineering Intern | DataPulse | Summer 2022
+- Assisted with data pipeline scripts in Python
+- Learned FastAPI and PostgreSQL in agile team environment
+
+EDUCATION
+B.S. Computer Science | Bay Area University | 2023
+
+TARGET ROLES
+Software Engineer, Junior Backend Engineer, AI Engineer
+
+SALARY EXPECTATION
+$90,000 – $120,000
